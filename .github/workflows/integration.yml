@@ -9,7 +9,7 @@ on:
 
 jobs:
 # Job for Backend
-  backend-ci:
+  backedn-ci:
     runs-on: ubuntu-latest
     strategy:
       matrix:
